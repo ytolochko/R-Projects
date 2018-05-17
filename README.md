@@ -1,5 +1,5 @@
 # R-Projects
-Here I collect interesting projects that I have completed using R. Each project has a .R file associated with it - this is the actual code as well as a .html file - this is a user-friendly version which you can open in a browser and see the code as well as its results in one neat document (however, the .html files might be too large to open directly in Github, so you might have to download them on you local mahcine).  
+Here I collect interesting projects that I have completed using R. Each project has a .R file associated with it - this is the actual code as well as a .html file - this is a user-friendly version which you can open in a browser and see the code as well as its results in one neat document (please open the .html files on your local mahcine, since Github does not display them correctly).  
 
 Currentely, there are 3 projects:
 
